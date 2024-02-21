@@ -1,5 +1,8 @@
 _repo: The-quantum-postulate-and-the-recent-development-of-atomic-theory_72800
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bohr, Niels
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44167
     wikipedia: https://en.wikipedia.org/wiki/Niels_Bohr
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72800#The-quantum-postulate-and-the-recent-development-of-atomic-theory
 gutenberg_issued: '2024-01-29'
 gutenberg_type: Text
 identifiers:
